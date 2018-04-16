@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>nuestrosServicios</title>
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="css/miCss.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark"> <button
+
+        class="navbar-toggler"> <span class="navbar-toggler-icon"></span>
+      </button>
+      <form class="form-inline"> <input class="form-control" placeholder="Buscar..."
+
+          type="text"> </form>
+      <button class="btn btn-outline-success" type="submit">Buscar!</button>
+      <div class="collapse navbar - collapse">
+        <p> <a class="navbar-brand" ;="" name="principio" href="../ejerciciosTema2/nosotros.html">Nosotros</a></p>
+        <p> <a class="navbar-brand" ;="" name="principio" href="../index.html">Índice</a></p>
+        <p> <a class="navbar-brand" ;="" name="principio" href="https://github.com/ekise48/disenoWeb">Ir
+            a mi repositorio</a></p>
+        <p> <a class="navbar-brand" ;="" name="principio" href="mailto:elisa.gonzales@ua.es">Contactar</a></p>
+      </div>
+    </nav>
+    <header class="row">
+      <h1 class="col-md-10 col-sm-6 col-12"><img src="../imagenes/logo_empresa.jpg"
+
+          alt="logotipo de mi empresa" style="width: 112px; height: 75px;">BIENVENIDO
+        A NUESTRA WEB</h1>
+      <picture class="col-md-10 col-sm-6 col-12"> </picture> </header>
+    <section class="row">
+      <article class="col-md-4 col-sm-8 col-12">
+        <h2>PRIMER TEXTO</h2>
+        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu
+          mollis nunc. Nam tristique et massa nec ultrices. Praesent pulvinar
+          suscipit commodo. Pellentesque commodo quam quis magna blandit,
+          eleifend eleifend orci elementum. Donec porta in orci quis sodales.
+          Phasellus facilisis aliquam arcu, consequat suscipit diam vehicula eu.
+          Morbi vestibulum fringilla felis in sollicitudin. Nunc accumsan lorem
+          et tortor elementum pretium. Aliquam elit lacus, pulvinar quis feugiat
+          vitae, rutrum vel justo. </p>
+      </article>
+      <article class="col-md-4 col-sm-8 col-12">
+        <h2>SEGUNDO TEXTO</h2>
+        <p> Etiam at faucibus risus. Aliquam et vehicula sapien. Praesent
+          ultrices dolor eu urna commodo, id blandit nisl sollicitudin. Proin a
+          iaculis erat. Morbi eleifend dui id sem ullamcorper, a volutpat ante
+          vehicula. Donec eu augue congue ex faucibus cursus at sed
+          urna.Phasellus iaculis nisl elit, in imperdiet mi suscipit nec.
+          Praesent porttitor lacus in tellus varius, ut aliquet nunc feugiat.
+          Donec ex ante, venenatis sit amet elit malesuada, viverra congue
+          tortor. Aenean sed volutpat lacus. Phasellus sed ipsum sed enim
+          placerat eleifend. Sed auctor magna nisl, eget suscipit nisi rhoncus
+          in. Nunc pretium efficitur erat. Pellentesque gravida feugiat ipsum
+          venenatis consequat. Nunc tellus enim, feugiat vel luctus accumsan,
+          ultrices interdum sapien. </p>
+      </article>
+      <article class="col-md-4 col-sm-8 col-12">
+        <h2>TERCER TEXTO</h2>
+        <p> Sed scelerisque ullamcorper ligula, nec ullamcorper velit sodales
+          id. Phasellus sagittis consectetur leo at lobortis. Aliquam quis
+          ligula tempus, vestibulum diam eget, placerat quam. Curabitur in
+          semper purus, sed luctus tellus. Phasellus a ipsum vitae neque cursus
+          consectetur. Cras feugiat tortor non sapien finibus condimentum.In hac
+          habitasse platea dictumst. Curabitur sit amet diam mattis, luctus
+          velit vitae, ultrices mauris. Donec iaculis est sed nibh tincidunt
+          bibendum. Sed pharetra non orci sit amet facilisis. Quisque tristique
+          id risus quis feugiat. Donec vehicula libero a metus convallis, at
+          consectetur lacus bibendum </p>
+      </article>
+    </section>
+     <footer>
+      <p>Copyright</p>
+      <p>Elisa González</p>
+    </footer>
+  </body>
+</html>
